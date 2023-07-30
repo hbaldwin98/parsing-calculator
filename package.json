@@ -1,0 +1,8 @@
+{
+    "name": "calculator",
+    "version": "1.0.0",
+    "description": "Two calculators implemented in TypeScript: One using a stack, the other using a lexer and parser.",
+    "devDependencies": {
+        "@types/node": "^20.4.5"
+    }
+}
